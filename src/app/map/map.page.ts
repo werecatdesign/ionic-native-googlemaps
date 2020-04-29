@@ -52,7 +52,7 @@ export class MapPage {
 
   }
 
-  openHome(){
+  openStart(){
     this.router.navigateByUrl('home');
   }
 }
